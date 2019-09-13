@@ -1,0 +1,22 @@
+{
+  "name": "sdf-netsuite-typescript-starter",
+  "version": "1.0.0",
+  "description": "Netsuite SDF Typescript starter ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@hitc/netsuite-types": "^2019.2.2",
+    "@types/node": "^12.7.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NetSuite",
+    "SDF",
+    "TypeScript",
+    "SuiteScript"
+  ],
+  "author": "David Turton <dturton@etrivo.com> (https://etrivo.com)",
+  "license": "MIT"
+}
